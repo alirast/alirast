@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on [drawing & text editor](https://github.com/alirast/TelegramContest)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 Learning **Swift**
 
 <h3 align="left"></h3>
 <p align="left">
