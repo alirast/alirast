@@ -2,7 +2,7 @@
 <h3 align="left">iOS developer</h3>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alirast&" alt="alirast" /></p>
 
-- 🔭 Currently working on [drawing & text editor](https://github.com/alirast/TelegramContest)
+- 🧩 My project [drawing & text editor](https://github.com/alirast/TelegramContest)
 
 - 🌱 Learning **Swift**
 
