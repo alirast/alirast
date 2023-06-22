@@ -5,6 +5,8 @@
 - 🧩 My project [drawing & text editor](https://github.com/alirast/TelegramContest)
 
 - 🌱 Learning **Swift**
+  
+- 🔋 Currently working on [online course app](https://github.com/alirast/fishApp)
 
 <h3 align="left"></h3>
 <p align="left">
