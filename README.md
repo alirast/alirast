@@ -5,7 +5,18 @@
 - 🧩 My recent project [drawing & text editor](https://github.com/alirast/TelegramContest)
 
 - 🌱 Learning **Swift**
+
+**Skills**
+
+- 🛠️ UIKit
   
+- 🎨 PencilKit
+
+- 📸 PhotoKit
+
+- 🎮 SpriteKit
+
+- 🎬 Lottie
 
 <h3 align="left"></h3>
 <p align="left">
