@@ -8,6 +8,8 @@
 
 - 🌱 currently learning **SwiftUI**, **Vapor**
 
+- 🏋️‍♀️ improving GCD skills, SpriteKit knowledge & Rest API
+
 **Skills**
 
  🛠️ UIKit 🪼 SwiftUI 🎨 PencilKit 📸 PhotoKit 🎮 SpriteKit 🎬 Lottie
