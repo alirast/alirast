@@ -8,17 +8,8 @@
 
 **Skills**
 
-- 🛠️ UIKit
+ 🛠️ UIKit  🪼 SwiftUI  🎨 PencilKit  📸 PhotoKit  🎮 SpriteKit  🎬 Lottie
 
-- 🪼 SwiftUI
-  
-- 🎨 PencilKit
-
-- 📸 PhotoKit
-
-- 🎮 SpriteKit
-
-- 🎬 Lottie
 
 <h3 align="left"></h3>
 <p align="left">
