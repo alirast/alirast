@@ -6,7 +6,7 @@
   
 - 🧩 [Food delivery app (SwiftUI)](https://github.com/alirast/finalProject)
 
-- 🌱 Learning **Swift**
+- 🌱 currently learning **SwiftUI**, **Vapor**
 
 **Skills**
 
