@@ -2,7 +2,9 @@
 <h3 align="left">iOS developer</h3>
 
 
-- 🧩 My recent project [drawing & text editor](https://github.com/alirast/TelegramContest)
+- 🧩 [Drawing & text editor](https://github.com/alirast/TelegramContest)
+  
+- 🧩 [Food delivery app (SwiftUI)](https://github.com/alirast/finalProject)
 
 - 🌱 Learning **Swift**
 
