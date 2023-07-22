@@ -6,6 +6,8 @@
   
 - 🧩 [Food delivery app (SwiftUI)](https://github.com/alirast/finalProject)
 
+- 🧩 [News App](https://github.com/alirast/testNewsApp)
+
 - 🌱 currently learning **SwiftUI**, **Vapor**
 
 - 🏋️‍♀️ improving GCD skills, SpriteKit knowledge & Rest API
