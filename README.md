@@ -9,9 +9,7 @@
 
 - 🧩 [News App](https://github.com/alirast/testNewsApp)
 
-- 🌱 currently learning **SwiftUI**, **Vapor**
-
-- 🏋️‍♀️ improving GCD skills, SpriteKit knowledge & Rest API
+- 🏋️‍♀️ improving GCD skills, SceneKit knowledge & Rest API
 
 **Skills**
 
