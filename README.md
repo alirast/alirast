@@ -1,15 +1,8 @@
 <h1 align="left">Hi 👋, I'm Alina</h1>
 <h3 align="left">iOS developer</h3>
 
-- 🔋 [My CV](https://github.com/alirast/CV)
-
 - 🧩 [Drawing & text editor](https://github.com/alirast/TelegramContest)
-  
-- 🧩 [Food delivery app (SwiftUI)](https://github.com/alirast/finalProject)
 
-- 🧩 [News App](https://github.com/alirast/testNewsApp)
-
-- 🏋️‍♀️ improving GCD skills, SceneKit knowledge & Rest API
 
 **Skills**
 
