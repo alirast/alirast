@@ -6,8 +6,9 @@
 
 **Skills**
 
- 🛠️ UIKit 🪼 SwiftUI 🎨 PencilKit 📸 PhotoKit 🎮 SpriteKit 🎬 Lottie
-
+ 🛠️ UIKit 🪼 SwiftUI 🐾 SnapKit 🎨 PencilKit 📸 PhotoKit 🎮 SpriteKit 🎬 AVFoundation 🖊️ R.swift 
+ 
+ Other: Lottie, Giphy iOS SDK
 
 <h3 align="left"></h3>
 <p align="left">
